@@ -1,5 +1,6 @@
 # nebula-chain
 This project contains scripts that help release process for gradle projects.  This script needs `bash` command.
+[Here](https://qiita.com/kazntree/items/5738f5e91be89c7033b1) is details (written in Japanese).
 
 ## release.sh
 ### Prerequisites
