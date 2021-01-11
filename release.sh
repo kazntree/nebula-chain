@@ -1,4 +1,5 @@
-#!/bin/zsh
+#!/bin/bash
+
 CURRENT_DIR=$(pwd)
 PROJECT_DIR=$(git rev-parse --show-toplevel)
 cd $PROJECT_DIR
